@@ -1,0 +1,26 @@
+<resources>
+    <!--    <string name="app_name">Belajar Pemrograman</string>-->
+    <!--    <string name="about">About</string>-->
+    <string name="dummybelajar">Use for: Android Language</string>
+    <string name="dummytitle">Kotlin</string>
+    <string name="dummydevice">Device: Linux, Windows, MacOS</string>
+    <string name="year">Year:</string>
+    <string name="dummybirth">2017</string>
+    <string name="laptop">Laptop:</string>
+    <string name="dummylaptop">Supported</string>
+    <string name="intro">Description</string>
+    <string name="dummyintro">Belajar pemrogrman Android menggunakan Kotlin.</string>
+
+    <string name="app_name">BREAD</string>
+    <string name="about">About</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string name="name">Name</string>
+    <string name="desc">Description</string>
+
+    <string name="move_about">About</string>
+    <string name="data_received">Data Received</string>
+    <string name="person_received">Person Received</string>
+    <string name="photo">Photo</string>
+</resources>
